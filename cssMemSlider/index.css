@@ -146,11 +146,7 @@
             background: #ddd;
         }
         
-        @media (max-width: 1200px) {
-            .slider {
-                height: calc(0.625rem * 40);
-            }
-        }
+        
         
         @media (max-width: 768px) {
             .wrapper {
